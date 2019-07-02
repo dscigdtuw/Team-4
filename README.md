@@ -2,8 +2,6 @@
 
 ## Aim: To create a website covering causes, signs and symptoms of depression.
 
-***
-
 ## Resources:
 
 * Git and GitHub:
